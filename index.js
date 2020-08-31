@@ -8,6 +8,6 @@ app.get("/mailru-domaindNzorCXbwbEMzsCI.html", (_, res) => {
   );
 });
 
-app.listen({ port: 4000 }, () => {
+app.listen({ port: 80 }, () => {
   "Server ready";
 });
